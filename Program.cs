@@ -4,8 +4,7 @@
     {
         static void Main(string[] args)
         {
-            EmployeePayroll.GetAllEmployee();
-            //EmployeePayroll.GetAllStoredProcedure();
+            EmployeePayroll.GetAllStoredProcedure();
         }
     }
 }
